@@ -131,6 +131,7 @@ Typical models used include:
 * Logistic Regression
 * Decision Tree
 * Random Forest
+* Xgboost Classifier
 
 The models were trained using the processed dataset and evaluated based on prediction accuracy.
 
